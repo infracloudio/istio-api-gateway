@@ -2,11 +2,12 @@
 Contains YAML manifests that help manage API Gateway using Istio.
 
 Table of content:
-- [Pre-requisite](#pre-requisite)
-- [Base Setup](#base-setup)
-- [Scenario and use-cases](#scenario-and-use-cases)
+1. [Pre-requisite](#pre-requisite)
+2. [Base Setup](#base-setup)
+3. [Scenario and use-cases](#scenario-and-use-cases)
 
 ## Pre-requisite
+
 - Kubernetes Cluster
 - Kubectl with updated context
 - Istio demo profile setup on cluster
